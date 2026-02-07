@@ -48,3 +48,5 @@ Visual breakdown of:
 - Pivot Tables & Pivot Charts
 - Dashboard Design & Storytelling
 
+[Maven-Toy-Dashboard.png](Maven-Toy-Dashboard.png)
+
