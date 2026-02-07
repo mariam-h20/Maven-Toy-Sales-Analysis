@@ -50,5 +50,5 @@ Visual breakdown of:
 
 [Maven-Toy-Dashboard.png](Maven-Toy-Dashboard.png)
 
-[Maven-Toy-Dashboard.png](Maven-Toy-Dashboard.png)
+
 
