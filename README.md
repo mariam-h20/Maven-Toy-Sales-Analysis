@@ -1,4 +1,5 @@
 # Maven-Toy-Sales
+ I built an interactive dashboard to analyze sales performance for Maven Toys across multiple dimensions including product categories, store locations, and time.
 ## Turning Raw Sales Data into Actionable Business Insights
 In this project, I built an interactive dashboard to analyze sales performance for Maven Toys across multiple dimensions including product categories, store locations, and time.
 
